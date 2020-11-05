@@ -10,7 +10,7 @@ return {
   game = dir .. '/google-controller.svg',
   lab = dir .. '/flask.svg',
   --others
-  menu = dir .. '/menu.svg',
+  menu = dir .. '/maia.svg',
   close = dir .. '/close.svg',
   logout = dir .. '/logout.svg',
   sleep = dir .. '/power-sleep.svg',
