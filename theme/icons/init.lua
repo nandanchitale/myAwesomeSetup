@@ -3,7 +3,7 @@ local dir = os.getenv('HOME') .. '/.config/awesome/theme/icons'
 return {
   --tags
   chrome = dir .. '/brave.svg',
-  code = dir .. '/code-braces.svg',
+  code = dir .. '/visual-studio-code.png',
   social = dir .. '/forum.svg',
   folder = dir .. '/folder.svg',
   music = dir .. '/music.svg',
