@@ -27,7 +27,7 @@ return {
     'fluxgui', -- for flux gui applet
     --'picom --config ' .. filesystem.get_configuration_dir() .. '/configuration/picom.conf',
     'nm-applet --indicator', -- wifi
-    'pnmixer', -- shows an audiocontrol applet in systray when installed.
+    --'pnmixer', -- shows an audiocontrol applet in systray when installed.
     --'blueberry-tray', -- Bluetooth tray icon
     'flameshot', -- screenshot app
     'numlockx on', -- enable numlock
