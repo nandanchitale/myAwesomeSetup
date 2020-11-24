@@ -16,7 +16,7 @@ return function(_, panel)
     },
     wibox.widget {
       text = 'Search Applications',
-      font = 'Roboto medium 13',
+      font = 'Roboto medium 9',
       widget = wibox.widget.textbox
     },
     clickable = true,
@@ -81,7 +81,7 @@ return function(_, panel)
         widget = wibox.widget.separator
       },
       require('layout.left-panel.dashboard.quick-settings'),
-      require('layout.left-panel.dashboard.hardware-monitor')
+      --require('layout.left-panel.dashboard.hardware-monitor')
     },
     nil,
     {
